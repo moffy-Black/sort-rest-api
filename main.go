@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/moffy-Black/sort-server/pkg/bubblesort"
-	"github.com/moffy-Black/sort-server/pkg/heapsort"
-	"github.com/moffy-Black/sort-server/pkg/quicksort"
+	"github.com/moffy-Black/sort-rest-API/pkg/bubblesort"
+	"github.com/moffy-Black/sort-rest-API/pkg/heapsort"
+	"github.com/moffy-Black/sort-rest-API/pkg/quicksort"
 )
 
 func main() {
